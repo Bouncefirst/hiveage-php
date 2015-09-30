@@ -51,7 +51,7 @@ abstract class Base implements ArrayAccess
         }
 
         $class = get_called_class();
-        $json = $this->getRequestor()->get($this->name.'/'.$hash);
+        $json = $this->getRequestor()->get($this->name . '/' . $hash);
         $objects = json_decode($json, true);
 
         if (!is_array($objects)) {

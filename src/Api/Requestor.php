@@ -41,7 +41,7 @@ class Requestor
 
     public static function getApiUrl($name)
     {
-        return self::PROTOCOL.$name.self::API;
+        return self::PROTOCOL . $name . self::API;
     }
 
     public static function getApiUrlOption($name, $options = [])
