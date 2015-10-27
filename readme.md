@@ -2,11 +2,13 @@
 
 [![Build Status](https://travis-ci.org/Bouncefirst/hiveage-php.svg?branch=master)](https://travis-ci.org/Bouncefirst/hiveage-php)
 
-Actual API documentation found here: http://www.hiveage.com/api/
+Hiveage API documentation found here: https://www.hiveage.com/api/
 
 ## Installation
 
-Add `"bouncefirst/hiveage": "dev-master"` to your composer.json file, then run `composer update`.
+1. Add `"bouncefirst/hiveage": "dev-master"` to your composer.json file
+2. Run `composer update`
+3. Try the examples!
 
 
 ## Usage
