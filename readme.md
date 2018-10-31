@@ -1,4 +1,4 @@
-#Hiveage.com API
+# Hiveage.com API Integration
 
 [![Build Status](https://travis-ci.org/Bouncefirst/hiveage-php.svg?branch=master)](https://travis-ci.org/Bouncefirst/hiveage-php)
 
